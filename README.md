@@ -1,20 +1,48 @@
-# Data Scientist
+# Data Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## Technical Skills
+#### Programming Languages: Python, SQL, R, Bash, Power Shell, Apache spark
+#### Cloud Services: Microsoft Fabric, Data Factory, Synapse, Managed Instance, Databricks, Azure Functions
+#### Big Data and ETL Tools: Informatica PWC, Informatica Cloud, SSIS, Data Stage, Snowflake
+#### Database Management: MySQL, Oracle, MS SQL Server, PostgreSQL, MongoDB, DB2, S3
+#### Reporting Tools: Power BI, SSRS, Tableau
+#### Additional Tools: Jira, Airflow, GitHub, Service Now, Jenkins, Docker, Excel, Lucid Chart
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education							       		
+- M.S., Data Analytics	| National College of Ireland (_August 2023_)	 			        		
+- B.S., Electronics and Communication | Visvesvaraya Technological University (_May 2018_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Engineer @ Glass Lewis (_May 2024 - Present_)**
+- Spearheaded the migration of on-premises data architecture to Microsoft Azure, leveraging Fabric and Azure Data Factory to build a scalable, cloud-based enterprise data architecture.
+- Designed and implemented Medallion architecture, ensuring efficient data workflows and adherence to data governance standards. Extensive experience with Databricks in multi-cloud environments, with a strong focus on Azure.
+- Led the development of complex data pipelines using PySpark and Azure Data Factory, enabling seamless data integration across the organization.
+- Provided technical consultancy to business teams, advising on best practices for working with large datasets and advanced analytics in Azure data services.
+- Successfully managed and executed the project independently, demonstrating strong problem-solving and project management skills.
+- Produced design documents and technical specifications, including functional and non-functional requirements and end-to-end data processes promoting data standards within the organization.
+- Experienced in delivering data to support front-end BI applications, data scientists, and software engineers.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Engineer @ IBM (_July 2021 - August 2022)**
+- Enhanced data quality by refining ETL processes using ADF and Informatica, reducing data inaccuracies, performance timings.
+- Developed ETL’s for Dimensions and Fact Tables including SCD-I and II implementations along with leading a cross-functional team of 7 to migrate on-premises databases to Azure, amplifying query performance.
+- Worked on incidents, change management, transition process and creating data catalogues.
+- Participated in a requirements gathering, analysis, design, development, testing, implementation, and support of BI technology solutions.
+- Conducted ETL, Data Warehouse Modelling, OLAP, processes documentation and BI solution delivery.
+- Worked with Agile methodologies, including Scrum or Kanban, and familiarity with project controls tools and process.
+- Proficient in version control, CI/CD tools, change control, query optimization and adhering to best practices.
+- A strong understanding of cluster configurations, spark UI, performance optimization to enhance job efficiency and resolve bottlenecks.
+- Provided comprehensive training, mentoring and assisting two new team members, facilitating their successful integration into the team.
+
+**Data Engineer @ NTT DATA (_Jan 2019 - July 2021_)**
+- Worked on a team to improve ETL layer production support processes using Informatica PWC, SSIS which led to a 10% reduction in errors and 30% reductions in production tickets.
+- Automated the currently existing Production loads, which require manual intervention, through Shell scripting and stored procedures.
+- Strong background in Data Warehouse modelling and schema design/Relational modeling (star, snowflake and data vault 2.0) along with modern data architectures (data warehouse, data lake, data lake-house etc).
+- Involved in performance tuning of source level, target level, map level bottlenecks.
+- Experience with every step of the data engineering lifecycle (i.e. ingestion, storage, transformation, serving) with a modern data stack.
+- Provided recommendations to improve system functionality and processes within the BI environment.
+- Knowledge on ETL programming skills, including experience with large code bases, complex data structures, and a variety of BI development tools.
+- Assumed responsibility for small-scale projects, leveraging in-depth knowledge on products to identify improvement opportunities, enhance user satisfaction, and align operational strategies with business goals.
+- Overlooked and managed a major project as a key client contact of an entire migration project from Cognizant to NTT Data by maintaining accurate documentation.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
